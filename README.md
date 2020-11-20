@@ -25,6 +25,6 @@
 <font size=1>你好</font>
 
 
-<font size=100>你好</font>
+<font size=7>你好</font>
 
 
