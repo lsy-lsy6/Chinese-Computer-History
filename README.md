@@ -8,4 +8,4 @@
   
 ## 1962-1966年
   1964年我国**第一台**自行设计的大型通用数字电子管计算机119机研制成功。
-[上世纪七十年代计算机](https://baike.baidu.com/pic/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%B2/1693030/0/35a85edf8db1cb133fd020addd54564e93584bd6?fr=lemma&ct=single#aid=0&pic=35a85edf8db1cb133fd020addd54564e93584bd6)
+![上世纪七十年代计算机](https://baike.baidu.com/pic/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%B2/1693030/0/35a85edf8db1cb133fd020addd54564e93584bd6?fr=lemma&ct=single#aid=0&pic=35a85edf8db1cb133fd020addd54564e93584bd6)
