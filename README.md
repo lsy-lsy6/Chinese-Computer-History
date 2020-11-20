@@ -15,8 +15,7 @@
 ## 1961-1964年
     
    &emsp;&emsp;1964年我国第一台自行设计的大型通用数字电子管计算机119机研制成功。<br>
-  
-![上世纪七十年代计算机](https://raw.githubusercontent.com/lmm327/hello/main/1.png)
+  <div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png" width="251" height="251"></div>
 
 ## 1965-1969年
 
