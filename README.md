@@ -28,9 +28,8 @@
   
 ## 1961-1965年
 <table>
- <div align="center">
   <tr>
-      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png " width="60%" alt="111"/><br></div>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png " width="251" alt=""/><br></div>
        119机
   </tr>   
 </table>
