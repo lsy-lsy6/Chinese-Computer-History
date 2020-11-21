@@ -31,7 +31,7 @@
 <table>
   <tr>
       <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png "><br>
-       119机
+        <div align=center>119机</div>
   </tr>   
 </table>
 </div>
