@@ -9,11 +9,11 @@
 <table>
   <tr>
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png " width="85%">
-       <br>103机
+       <br><div align=center>103机</div>
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/104.png">
-       104机
+       <div align=center>104机</div>
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/107.png">
-       107机
+       <div align=center>107机</div>
   </tr>   
 </table>
     &emsp;&emsp;1956年周恩来总理亲自提议、主持、制定我国《十二年科学技术发展规划》，选定了“计算机、电子学、半导体、自动化”作为“发展规划”的四项紧急措施，并制定了计算机科研、生产、教育发展计划。我国计算机事业由此起步。<br>
@@ -44,7 +44,7 @@
 <table>
   <tr>
       <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/109.png "></div>
-       109机
+       <div align=center>109机</div>
   </tr>   
 </table>
 </div>
