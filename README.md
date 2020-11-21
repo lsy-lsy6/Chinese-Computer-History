@@ -52,10 +52,9 @@
     &emsp;&emsp;华北计算所先后研制成功108机、108乙机(DJS-6)、121机(DJS-21)和320机(DJS-8)，并在738厂等五家工厂生产。<br>
     
 ## 2016-2020年
-/* font-weight: 400;*/
-<font color='red'>我要变成这个颜色#FF4500</font>
  <div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png" width="251" height="251"></div>
 <font color=gray size=7>你好</font>
+<span style="color:red;">这是比font标签更好的方式</span>
 <div align=center><font size='700'><b>你好<b></font></div>
 <div align=center><font size='7000'><b>你好<b></font></div>
 <center style="font-size:70px;color:#FFFF00;text-decoration:underline">图1.知乎</center> 
