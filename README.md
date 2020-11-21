@@ -27,12 +27,23 @@
     &emsp;&emsp;1960年，中国第一台大型通用电子计算机一107型通用电子数字计算机研制成功。<br> 
   
 ## 1961-1965年
-   <div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png" width="251" height="251"></div>
+<table>
+  <tr>
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png ">
+       119机
+  </tr>   
+</table>
     &emsp;&emsp;1964年我国第一台自行研制的119型大型数字计算机在中科院计算所诞生，其运算速度每秒5万次，字长44位，内存容量4K字。在该机上完成了我国第一颗氢弹研制的计算任务。<br>
     &emsp;&emsp;1965年，中国第一台百万次集成电路计算机“DJ S-?”型操作系统编制完成。<br>
     &emsp;&emsp;1965年6月我国自行设计的第一台晶体管大型计算机109乙机在中科院计算所诞生，字长32位，运算速度每秒10万次，内存容量为双体24K字。<br>
     
 ## 1966-1970年
+<table>
+  <tr>
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/109.png ">
+       109机
+  </tr>   
+</table>
    &emsp;&emsp;1967年9月中科院计算所研制的109丙机交付用户使用。该机为用户服役15年，有效算题时间10万小时以上，平均使用效率94%以上，在我国两弹试制中发挥了重要作用,被用户誉为“功勋机”。<br>
     &emsp;&emsp;华北计算所先后研制成功108机、108乙机(DJS-6)、121机(DJS-21)和320机(DJS-8)，并在738厂等五家工厂生产。<br>
     
