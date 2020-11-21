@@ -13,6 +13,16 @@
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/107.png">
   </tr>   
 </table>
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://raw.githubusercontent.com/lmm327/hello/main/103.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">103机</div>
+</center>
     &emsp;&emsp;1956年周恩来总理亲自提议、主持、制定我国《十二年科学技术发展规划》，选定了“计算机、电子学、半导体、自动化”作为“发展规划”的四项紧急措施，并制定了计算机科研、生产、教育发展计划。我国计算机事业由此起步。<br>
     &emsp;&emsp;1956年3月，由闵乃大教授、胡世华教授、徐献瑜教授、张效祥教授、吴几康副研究员和北大的党政人员组成的代表团，参加了在莫斯科主办的“计算技术发展道路”国际会议。此次参会为我国制定12年规划的计算机部分作技术准备。随后在制定的12年规划中确定中国要研制计算机，并批准中国科学院成立计算技术、半导体、电子学及自动化四个研究所。<br>
     &emsp;&emsp;1956年8月25日我国第一个计算技术研究机构中国科学院计算技术研究所筹备委员会成立，著名数学家华罗庚任主任。这就是我国计算技术研究机构的摇篮。<br>
