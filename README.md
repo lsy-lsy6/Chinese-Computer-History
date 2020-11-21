@@ -27,8 +27,8 @@
     &emsp;&emsp;1960年，中国第一台大型通用电子计算机一107型通用电子数字计算机研制成功。<br> 
   
 ## 1961-1965年
-<div align="center">
 <table>
+ <div align="center">
   <tr>
       <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png " width="60%" alt="111"/><br></div>
        119机
