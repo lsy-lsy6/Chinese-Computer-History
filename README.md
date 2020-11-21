@@ -23,8 +23,8 @@
   &emsp;&emsp;1965年中科院计算所研制成功了我国第一台大型晶体管计算机：109乙机；对109乙机加以改进，两年后又推出109丙机，在我国两弹试制中发挥了重要作用，被用户誉为“功勋机”。华北计算所先后研制成功108机、108乙机(DJS-6)、121机(DJS-21)和320机(DJS-8)，并在738厂等五家工厂生产。<br>
 
 
-<div align=center></font size='1'><b>你好<b></font></div>
-<div align=center></font size='700'><b>你好<b></font></div>
-<div align=center></font size='7000'><b>你好<b></font></div>
+<font color=gray size=7>你好</font>
+<div align=center><font size='700'><b>你好<b></font></div>
+<div align=center><font size='7000'><b>你好<b></font></div>
 
   
