@@ -8,9 +8,9 @@
 ## 1956-1960年
 <table>
   <tr>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png" width="200"/>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/104.png" width="200"/>
-  </tr?   
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png">
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/104.png">
+  </tr>   
 </table>
     &emsp;&emsp;1956年周恩来总理亲自提议、主持、制定我国《十二年科学技术发展规划》，选定了“计算机、电子学、半导体、自动化”作为“发展规划”的四项紧急措施，并制定了计算机科研、生产、教育发展计划。我国计算机事业由此起步。<br>
     &emsp;&emsp;1956年3月，由闵乃大教授、胡世华教授、徐献瑜教授、张效祥教授、吴几康副研究员和北大的党政人员组成的代表团，参加了在莫斯科主办的“计算技术发展道路”国际会议。此次参会为我国制定12年规划的计算机部分作技术准备。随后在制定的12年规划中确定中国要研制计算机，并批准中国科学院成立计算技术、半导体、电子学及自动化四个研究所。<br>
