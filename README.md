@@ -29,7 +29,7 @@
 ## 1961-1965年
 <table>
   <tr>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png ">
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png "></div>
        119机
   </tr>   
 </table>
@@ -40,7 +40,7 @@
 ## 1966-1970年
 <table>
   <tr>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/109.png ">
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/109.png "></div>
        109机
   </tr>   
 </table>
