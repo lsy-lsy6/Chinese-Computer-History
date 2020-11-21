@@ -8,7 +8,7 @@
 ## 1956-1960年
 <table>
   <tr>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png " width="50%">
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png " width="80%">
        103机
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/104.png">
        104机
